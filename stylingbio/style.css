@@ -9,8 +9,17 @@ img {
     padding-left: 0px;
     padding-right: 300px;
     padding-top: 10px; 
+    border-color: black 20px;
 }
 
 .img1 {
     width: 230px;
+    border-color: rgb(97, 57, 57) 15px;
+    margin: 150px;
+    border: 25px;
 }
+#borderimg {
+    border: 10px solid transparent;
+    padding: 15px;
+    border-image: url(border.png) 30 round;
+  }

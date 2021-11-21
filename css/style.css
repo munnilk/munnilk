@@ -12,5 +12,10 @@ line-height: 1.6em
 
 p{
     margin:5px
+}
+img {
+    border-color: black 15px;
+    border-radius: 150px;
+}
 
-    
+     
