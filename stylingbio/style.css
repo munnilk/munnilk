@@ -13,12 +13,19 @@ img {
 }
 
 .img1 {
-    width: 230px;
-    border-color: rgb(97, 57, 57) 15px;
+    width: 200px;
+    height: 200px;
+    border-color: rgb(71, 7, 7) 15px;
     margin: 15px;
     border: 25px;
-    float: left;
-    padding-left: 150px;
+    float: right;
+    padding-left: 300px;
+    padding-right: 300px;
+
+    border-radius: 50%;
+   padding-top: 10px;
+   margin-top: 10px;
+
 }
 
   h1 {
@@ -27,3 +34,7 @@ img {
   h2 {
       color: rgb(2, 57, 59);
   }
+  figcaption {
+      font-size: small;
+      font-style: italic;
+}
