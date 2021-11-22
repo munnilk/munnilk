@@ -15,11 +15,17 @@ img {
 .img1 {
     width: 230px;
     border-color: rgb(97, 57, 57) 15px;
-    margin: 150px;
+    margin: 15px;
     border: 25px;
 }
 #borderimg {
     border: 10px solid transparent;
     padding: 15px;
     border-image: url(border.png) 30 round;
+  }
+  h1 {
+      color: blue;
+  }
+  h2 {
+      color: rgb(2, 57, 59);
   }
