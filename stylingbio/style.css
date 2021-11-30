@@ -53,7 +53,7 @@ img {
     border: 15px rgb(7, 64, 66);
 }
 video {
-    width: 450px;
+    width: 500px;
     height: 450px;
     border: rgb(2, 112, 103);
     border-style: solid;
@@ -61,4 +61,5 @@ video {
     padding: 0px;
     padding-top: 0px;
     padding-bottom: 0px;
-    object-fit: fill;}
+    object-fit: fill;
+}
